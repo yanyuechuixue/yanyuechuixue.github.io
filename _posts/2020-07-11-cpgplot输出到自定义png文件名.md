@@ -4,7 +4,7 @@ title:      cpgplot输出到png文件
 subtitle:   以及如何输出到指定的文件名
 date:       2020-07-11
 author:     Me
-header-img: img/post-bg-cpgplot.png
+header-img: img/bg-unix-linux.png
 catalog: true
 tags:
     - iOS
