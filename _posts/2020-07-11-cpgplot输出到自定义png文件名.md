@@ -7,9 +7,9 @@ author:     Me
 header-img: img/bg-unix-linux.png
 catalog: true
 tags:
-    - iOS
-    - CocoaPods
-    - Git
+    - C++
+    - pgplot
+    - cpgplot
 ---
 
 
