@@ -10,7 +10,7 @@ tags:
     - CentOS
     - condor
     - htcondor
-	  - selinux
+    - selinux
 ---
 
 安装并不困难
