@@ -13,7 +13,7 @@ tags:
     - UFW
 ---
 
-卸载 ufw , 恢复路由表
+## 卸载 ufw , 恢复路由表
 
 ```bash
 sudo apt remove ufw
